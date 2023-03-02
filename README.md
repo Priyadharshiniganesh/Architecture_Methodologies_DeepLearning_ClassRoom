@@ -1,0 +1,2 @@
+# Architecture_Methodologies_DeepLearning
+SoC-Deep Learning concepts
